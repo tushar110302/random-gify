@@ -11,7 +11,7 @@
 
 ## Run the project
 ```
-git clone 
+git clone https://github.com/tushar110302/random-gify.git
 ```
 ```
 npm install
